@@ -28,3 +28,25 @@ modelo <- boosting(Impago ~ ., data = deudas)
 resultados <- predict(modelo, newdata = deudas, type = "class")
 t <- resultados$confusion
 t ; 100 * sum(diag(t)) / sum(t)
+
+
+#Random Forest
+
+load("~/archivos de programas/Christian/Documents/R/Data Mining/Data-Mining/Tema2/vinos.RData")
+library(randomForest)
+set.seed(12345)
+muestra <- sample(1:nrow(vinos), 40) # 40 números de fila o caso elegidos al azar
+entrenamiento <- vinos[muestra, ]
+prueba <- vinos[-muestra, ] 
+set.seed(12345)
+modelo <- randomForest(var~ gal+tar+mal+shi+cit+suc, data=entrenamiento)
+modelo
+modelo$predicted
+round(modelo$votes, 3)
+modelo$importance
+varImpPlot(modelo)
+
+
+predicciones <- predict(modelo, prueba)
+t <- with(prueba, table(predicciones, var)) # Matriz de confusión
+t ; 100 * sum(diag(t)) / sum(t)
