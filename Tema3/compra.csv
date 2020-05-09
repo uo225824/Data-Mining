@@ -1,0 +1,1001 @@
+comprador;sexo;edad;empleo;formacion;estadocivil
+si;hombre;> 55;ocupado;univers;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;> 55;ocupado;media;casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;< 35;parado;media;no casado
+no;mujer;35 -55;ocupado;univers;no casado
+no;hombre;> 55;inactivo;media;no casado
+no;mujer;> 55;parado;media;no casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;> 55;inactivo;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;> 55;ocupado;elemen;no casado
+no;mujer;< 35;ocupado;media;casado
+no;mujer;> 55;parado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+no;mujer;> 55;ocupado;elemen;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;> 55;inactivo;media;no casado
+si;hombre;> 55;inactivo;elemen;casado
+si;mujer;< 35;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;> 55;ocupado;elemen;casado
+no;hombre;< 35;ocupado;elemen;no casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;casado
+si;hombre;35 -55;ocupado;univers;casado
+si;mujer;> 55;inactivo;media;casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;> 55;parado;media;casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;hombre;< 35;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;univers;no casado
+no;hombre;35 -55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;univers;casado
+no;mujer;> 55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;> 55;parado;elemen;casado
+no;mujer;< 35;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;35 -55;inactivo;elemen;no casado
+no;mujer;> 55;inactivo;media;casado
+si;mujer;> 55;ocupado;elemen;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;hombre;> 55;ocupado;elemen;casado
+si;mujer;> 55;parado;media;no casado
+no;hombre;< 35;ocupado;media;no casado
+si;hombre;35 -55;parado;elemen;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;hombre;35 -55;ocupado;elemen;casado
+no;hombre;> 55;inactivo;elemen;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;> 55;ocupado;univers;casado
+no;mujer;> 55;parado;media;casado
+no;mujer;35 -55;ocupado;univers;casado
+si;mujer;< 35;parado;media;casado
+si;hombre;< 35;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+si;mujer;> 55;inactivo;media;no casado
+no;mujer;> 55;parado;elemen;no casado
+si;mujer;< 35;parado;elemen;casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;NA
+si;hombre;> 55;inactivo;media;NA
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;ocupado;univers;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;> 55;ocupado;univers;no casado
+si;hombre;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+no;mujer;> 55;inactivo;media;casado
+si;mujer;< 35;parado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;elemen;no casado
+si;hombre;< 35;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;univers;casado
+si;hombre;> 55;inactivo;media;no casado
+si;hombre;> 55;inactivo;media;NA
+si;hombre;< 35;ocupado;media;casado
+si;hombre;35 -55;parado;NA;NA
+no;mujer;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;ocupado;univers;no casado
+si;hombre;> 55;ocupado;media;casado
+no;mujer;35 -55;parado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;elemen;casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;> 55;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;no casado
+no;hombre;35 -55;ocupado;elemen;no casado
+si;hombre;> 55;inactivo;media;casado
+no;mujer;35 -55;parado;elemen;casado
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;> 55;ocupado;univers;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;elemen;casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;mujer;NA;parado;media;casado
+si;hombre;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;media;no casado
+no;mujer;35 -55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;univers;no casado
+si;hombre;35 -55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;elemen;casado
+si;hombre;> 55;parado;media;casado
+si;hombre;< 35;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;parado;media;no casado
+si;mujer;35 -55;ocupado;elemen;no casado
+no;mujer;< 35;ocupado;univers;casado
+no;mujer;< 35;ocupado;media;no casado
+si;mujer;< 35;ocupado;univers;no casado
+si;hombre;> 55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;> 55;inactivo;media;no casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;< 35;ocupado;univers;casado
+si;mujer;> 55;parado;elemen;no casado
+no;mujer;> 55;parado;elemen;no casado
+no;hombre;35 -55;ocupado;univers;casado
+si;hombre;< 35;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;NA
+si;mujer;> 55;inactivo;elemen;casado
+si;hombre;35 -55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;univers;casado
+si;hombre;35 -55;inactivo;media;casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;35 -55;inactivo;elemen;casado
+si;mujer;35 -55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;elemen;casado
+no;mujer;< 35;parado;elemen;NA
+no;mujer;> 55;inactivo;elemen;casado
+si;mujer;> 55;parado;media;casado
+no;hombre;< 35;parado;media;no casado
+no;mujer;< 35;ocupado;media;casado
+si;hombre;> 55;ocupado;elemen;no casado
+si;mujer;35 -55;parado;media;casado
+no;hombre;35 -55;parado;media;casado
+si;mujer;< 35;parado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;ocupado;media;casado
+si;hombre;> 55;parado;media;casado
+no;hombre;35 -55;ocupado;univers;no casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;> 55;inactivo;media;no casado
+si;mujer;> 55;inactivo;elemen;no casado
+no;mujer;< 35;ocupado;media;casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;casado
+no;hombre;35 -55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;univers;casado
+si;mujer;> 55;inactivo;media;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;> 55;parado;elemen;no casado
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;casado
+si;hombre;> 55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+si;mujer;> 55;inactivo;media;no casado
+si;mujer;35 -55;ocupado;media;no casado
+si;mujer;< 35;parado;media;casado
+si;hombre;35 -55;ocupado;univers;no casado
+si;hombre;> 55;parado;media;casado
+si;mujer;> 55;inactivo;elemen;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;hombre;< 35;ocupado;elemen;no casado
+no;mujer;< 35;parado;elemen;casado
+si;mujer;> 55;parado;elemen;no casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;elemen;casado
+no;mujer;< 35;parado;elemen;no casado
+si;hombre;< 35;ocupado;media;casado
+no;mujer;> 55;inactivo;media;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;hombre;> 55;inactivo;univers;casado
+si;mujer;35 -55;parado;elemen;casado
+no;mujer;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;elemen;no casado
+no;mujer;> 55;ocupado;media;no casado
+no;mujer;> 55;ocupado;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;< 35;ocupado;media;casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;hombre;> 55;ocupado;elemen;casado
+si;mujer;35 -55;ocupado;elemen;casado
+si;hombre;> 55;ocupado;univers;casado
+no;hombre;> 55;inactivo;media;no casado
+no;hombre;> 55;parado;elemen;NA
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;univers;casado
+no;mujer;< 35;ocupado;univers;no casado
+si;hombre;> 55;inactivo;media;casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;hombre;< 35;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;ocupado;media;no casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+no;mujer;35 -55;parado;elemen;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;elemen;casado
+si;hombre;> 55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;univers;NA
+si;mujer;35 -55;parado;media;casado
+no;mujer;35 -55;ocupado;media;NA
+no;mujer;> 55;parado;elemen;no casado
+no;mujer;< 35;ocupado;media;NA
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;< 35;ocupado;media;no casado
+si;mujer;> 55;inactivo;elemen;no casado
+si;hombre;> 55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;no casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;NA
+si;hombre;35 -55;ocupado;media;no casado
+si;hombre;35 -55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;parado;elemen;no casado
+no;mujer;35 -55;ocupado;media;casado
+no;hombre;< 35;parado;media;casado
+no;mujer;35 -55;ocupado;media;no casado
+no;hombre;> 55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;> 55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;> 55;inactivo;media;casado
+si;mujer;< 35;parado;media;casado
+si;mujer;> 55;inactivo;media;no casado
+si;mujer;> 55;inactivo;media;casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;inactivo;elemen;no casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;< 35;ocupado;media;no casado
+no;hombre;< 35;parado;media;no casado
+si;mujer;35 -55;parado;media;casado
+si;mujer;35 -55;parado;media;casado
+no;hombre;< 35;ocupado;elemen;no casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;> 55;ocupado;media;casado
+si;mujer;> 55;ocupado;elemen;no casado
+si;mujer;> 55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;mujer;> 55;parado;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+no;hombre;35 -55;parado;media;casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;< 35;parado;media;no casado
+si;mujer;< 35;ocupado;univers;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;casado
+no;mujer;> 55;parado;elemen;no casado
+no;hombre;35 -55;ocupado;elemen;no casado
+no;hombre;35 -55;ocupado;elemen;NA
+si;mujer;> 55;inactivo;elemen;casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;> 55;inactivo;elemen;no casado
+no;mujer;> 55;inactivo;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;< 35;ocupado;media;no casado
+no;hombre;35 -55;parado;elemen;casado
+no;hombre;< 35;ocupado;media;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;univers;casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;elemen;no casado
+si;mujer;> 55;inactivo;univers;no casado
+si;mujer;> 55;parado;elemen;no casado
+si;hombre;35 -55;ocupado;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;< 35;parado;elemen;no casado
+no;hombre;35 -55;ocupado;elemen;casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;no casado
+no;hombre;< 35;parado;elemen;no casado
+si;hombre;35 -55;ocupado;elemen;NA
+no;mujer;> 55;inactivo;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;univers;casado
+si;hombre;> 55;inactivo;media;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;> 55;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;hombre;> 55;ocupado;media;no casado
+no;mujer;35 -55;ocupado;univers;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;no casado
+no;mujer;< 35;ocupado;elemen;no casado
+no;hombre;> 55;ocupado;media;no casado
+no;mujer;< 35;ocupado;elemen;no casado
+si;mujer;< 35;ocupado;univers;no casado
+si;hombre;35 -55;parado;NA;NA
+no;mujer;> 55;parado;media;casado
+no;mujer;35 -55;ocupado;elemen;no casado
+no;mujer;< 35;ocupado;media;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;inactivo;elemen;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;mujer;> 55;parado;elemen;casado
+no;mujer;> 55;inactivo;media;casado
+no;mujer;< 35;ocupado;media;NA
+no;mujer;> 55;ocupado;univers;no casado
+no;mujer;> 55;inactivo;media;no casado
+si;mujer;> 55;parado;elemen;casado
+no;hombre;> 55;ocupado;media;no casado
+si;hombre;< 35;ocupado;univers;no casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;univers;casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;> 55;parado;media;casado
+no;hombre;> 55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;hombre;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;univers;no casado
+si;hombre;< 35;ocupado;univers;casado
+no;mujer;> 55;parado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;> 55;ocupado;media;no casado
+si;mujer;> 55;parado;elemen;casado
+no;hombre;35 -55;inactivo;elemen;no casado
+si;mujer;35 -55;ocupado;univers;casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;mujer;> 55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;> 55;ocupado;media;no casado
+si;hombre;35 -55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;> 55;parado;elemen;no casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;parado;elemen;casado
+no;mujer;> 55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;mujer;> 55;parado;univers;casado
+no;hombre;> 55;inactivo;media;no casado
+no;mujer;> 55;parado;elemen;no casado
+si;hombre;< 35;ocupado;media;no casado
+no;hombre;< 35;parado;media;no casado
+si;hombre;35 -55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;< 35;ocupado;univers;casado
+no;mujer;35 -55;parado;elemen;no casado
+no;mujer;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;elemen;casado
+no;mujer;< 35;parado;media;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;> 55;parado;media;no casado
+no;mujer;> 55;parado;elemen;casado
+si;mujer;35 -55;parado;media;casado
+si;hombre;35 -55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;< 35;parado;elemen;casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+si;hombre;35 -55;ocupado;univers;casado
+no;hombre;> 55;inactivo;elemen;casado
+no;mujer;< 35;parado;media;no casado
+si;mujer;35 -55;ocupado;media;no casado
+si;mujer;< 35;ocupado;media;casado
+si;mujer;< 35;ocupado;univers;casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+si;mujer;< 35;ocupado;media;casado
+no;hombre;> 55;parado;elemen;NA
+no;mujer;> 55;parado;media;casado
+no;hombre;35 -55;ocupado;elemen;no casado
+si;mujer;35 -55;ocupado;media;no casado
+si;mujer;> 55;inactivo;media;no casado
+si;mujer;< 35;ocupado;media;no casado
+no;hombre;35 -55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;> 55;inactivo;media;no casado
+si;hombre;35 -55;ocupado;univers;casado
+no;mujer;> 55;inactivo;media;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;mujer;> 55;parado;elemen;casado
+no;mujer;> 55;parado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+si;mujer;< 35;parado;media;casado
+no;hombre;> 55;parado;elemen;NA
+si;hombre;< 35;ocupado;media;casado
+no;mujer;35 -55;parado;elemen;no casado
+si;mujer;> 55;parado;media;casado
+si;hombre;35 -55;ocupado;elemen;casado
+no;mujer;> 55;parado;elemen;no casado
+no;hombre;< 35;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;casado
+si;mujer;> 55;ocupado;media;no casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;media;casado
+si;hombre;> 55;inactivo;media;no casado
+no;hombre;> 55;inactivo;elemen;casado
+no;mujer;> 55;parado;media;no casado
+si;mujer;> 55;inactivo;univers;no casado
+no;hombre;< 35;parado;media;no casado
+si;mujer;< 35;ocupado;media;casado
+si;mujer;> 55;ocupado;media;no casado
+no;hombre;< 35;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;< 35;ocupado;media;no casado
+no;hombre;35 -55;ocupado;elemen;casado
+no;mujer;> 55;parado;elemen;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;> 55;parado;media;casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;35 -55;parado;elemen;no casado
+si;hombre;> 55;ocupado;elemen;casado
+no;hombre;> 55;inactivo;elemen;casado
+no;hombre;< 35;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;> 55;ocupado;media;casado
+si;mujer;< 35;parado;media;casado
+si;mujer;> 55;parado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+si;mujer;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;elemen;casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;> 55;parado;elemen;casado
+si;mujer;> 55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;parado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+no;hombre;> 55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;> 55;ocupado;univers;no casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;35 -55;ocupado;media;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;mujer;> 55;parado;elemen;casado
+no;hombre;35 -55;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;hombre;> 55;inactivo;media;no casado
+si;mujer;35 -55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;35 -55;ocupado;univers;casado
+no;hombre;> 55;ocupado;media;casado
+no;mujer;< 35;parado;elemen;NA
+si;hombre;35 -55;ocupado;media;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;elemen;casado
+no;hombre;> 55;inactivo;media;no casado
+no;mujer;35 -55;parado;elemen;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;elemen;casado
+si;mujer;35 -55;parado;media;casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;hombre;< 35;ocupado;media;casado
+no;hombre;> 55;ocupado;univers;casado
+no;hombre;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;media;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+si;hombre;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;media;casado
+no;mujer;< 35;ocupado;media;casado
+si;mujer;> 55;inactivo;elemen;casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;hombre;> 55;inactivo;media;no casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;mujer;< 35;parado;media;casado
+si;hombre;35 -55;ocupado;elemen;NA
+si;mujer;< 35;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;> 55;inactivo;elemen;no casado
+si;mujer;< 35;ocupado;elemen;casado
+si;mujer;35 -55;parado;elemen;casado
+si;mujer;> 55;ocupado;univers;no casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;< 35;parado;elemen;casado
+si;hombre;> 55;inactivo;elemen;casado
+si;mujer;> 55;ocupado;media;casado
+no;hombre;> 55;inactivo;elemen;casado
+si;mujer;> 55;inactivo;elemen;casado
+si;mujer;35 -55;parado;media;casado
+no;mujer;> 55;parado;elemen;no casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;< 35;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;hombre;> 55;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;parado;elemen;no casado
+no;mujer;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;univers;no casado
+si;hombre;> 55;inactivo;elemen;casado
+si;hombre;< 35;ocupado;univers;no casado
+no;mujer;< 35;ocupado;elemen;casado
+si;mujer;> 55;parado;media;casado
+si;hombre;> 55;inactivo;univers;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;inactivo;elemen;casado
+si;hombre;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;elemen;casado
+si;mujer;< 35;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;< 35;ocupado;media;no casado
+no;hombre;> 55;ocupado;univers;no casado
+no;mujer;< 35;ocupado;elemen;no casado
+si;mujer;> 55;inactivo;media;no casado
+no;mujer;< 35;ocupado;elemen;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;no casado
+no;mujer;< 35;ocupado;univers;no casado
+no;mujer;35 -55;parado;elemen;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;parado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;casado
+no;mujer;> 55;ocupado;univers;casado
+si;mujer;< 35;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;< 35;parado;media;no casado
+no;hombre;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;ocupado;media;NA
+no;mujer;35 -55;ocupado;media;no casado
+si;mujer;< 35;ocupado;univers;casado
+si;mujer;35 -55;ocupado;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;parado;media;no casado
+no;mujer;< 35;parado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;hombre;> 55;inactivo;elemen;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;hombre;35 -55;inactivo;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;media;no casado
+no;hombre;< 35;ocupado;media;no casado
+si;mujer;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;elemen;casado
+no;hombre;< 35;ocupado;media;no casado
+no;mujer;> 55;ocupado;media;NA
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;> 55;ocupado;elemen;no casado
+si;mujer;35 -55;parado;media;casado
+no;hombre;> 55;inactivo;univers;casado
+si;mujer;35 -55;ocupado;elemen;casado
+si;mujer;> 55;inactivo;media;casado
+no;mujer;< 35;parado;elemen;no casado
+si;mujer;> 55;parado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;NA
+no;hombre;< 35;ocupado;elemen;NA
+no;mujer;< 35;ocupado;elemen;no casado
+si;mujer;< 35;parado;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;< 35;ocupado;univers;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;> 55;ocupado;elemen;casado
+no;hombre;< 35;ocupado;media;casado
+no;hombre;> 55;inactivo;elemen;casado
+si;mujer;35 -55;parado;media;casado
+no;hombre;> 55;parado;elemen;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;> 55;parado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;35 -55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;univers;casado
+no;hombre;> 55;inactivo;univers;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;hombre;35 -55;ocupado;univers;casado
+no;hombre;> 55;ocupado;elemen;casado
+no;mujer;< 35;parado;media;casado
+no;hombre;> 55;ocupado;univers;casado
+si;mujer;> 55;ocupado;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+no;hombre;> 55;inactivo;elemen;NA
+no;mujer;35 -55;parado;elemen;no casado
+no;mujer;< 35;parado;elemen;no casado
+si;mujer;35 -55;ocupado;univers;casado
+si;hombre;> 55;parado;elemen;no casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;35 -55;parado;elemen;casado
+si;mujer;> 55;parado;elemen;casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;hombre;> 55;ocupado;elemen;casado
+si;mujer;> 55;inactivo;univers;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;NA
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;> 55;parado;elemen;no casado
+si;mujer;> 55;inactivo;media;casado
+no;mujer;< 35;parado;media;no casado
+si;hombre;> 55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;mujer;> 55;inactivo;elemen;no casado
+si;hombre;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;< 35;ocupado;media;NA
+si;hombre;35 -55;ocupado;elemen;casado
+no;mujer;< 35;parado;media;no casado
+no;hombre;< 35;parado;media;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;elemen;NA
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;casado
+si;hombre;< 35;ocupado;media;casado
+si;mujer;> 55;parado;elemen;no casado
+si;hombre;35 -55;ocupado;elemen;casado
+si;mujer;> 55;inactivo;media;no casado
+no;hombre;< 35;ocupado;media;casado
+no;mujer;< 35;ocupado;univers;casado
+si;hombre;> 55;inactivo;univers;no casado
+si;hombre;35 -55;ocupado;univers;casado
+si;hombre;> 55;inactivo;elemen;casado
+si;hombre;> 55;inactivo;media;no casado
+no;mujer;< 35;parado;media;no casado
+si;mujer;35 -55;parado;media;casado
+no;mujer;> 55;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;no casado
+no;hombre;35 -55;ocupado;univers;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;< 35;parado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;NA
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;univers;casado
+si;mujer;< 35;parado;media;no casado
+si;mujer;< 35;parado;media;casado
+si;mujer;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;casado
+si;hombre;> 55;inactivo;elemen;casado
+si;mujer;> 55;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;35 -55;ocupado;univers;casado
+no;mujer;> 55;parado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;inactivo;media;casado
+no;hombre;> 55;inactivo;media;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;hombre;35 -55;ocupado;univers;no casado
+no;mujer;35 -55;inactivo;elemen;no casado
+si;mujer;> 55;inactivo;elemen;casado
+no;hombre;< 35;ocupado;media;NA
+si;hombre;> 55;ocupado;media;casado
+si;hombre;< 35;ocupado;media;no casado
+si;hombre;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+si;hombre;> 55;inactivo;media;casado
+no;mujer;> 55;ocupado;media;no casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;hombre;> 55;inactivo;elemen;NA
+no;mujer;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;univers;casado
+si;mujer;> 55;ocupado;media;no casado
+si;hombre;> 55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;35 -55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;univers;no casado
+no;mujer;35 -55;ocupado;media;NA
+no;mujer;< 35;ocupado;media;casado
+no;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;< 35;ocupado;elemen;no casado
+no;mujer;> 55;inactivo;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;< 35;ocupado;elemen;no casado
+no;hombre;< 35;ocupado;media;no casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;> 55;parado;media;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;< 35;parado;media;casado
+si;mujer;< 35;ocupado;univers;casado
+si;hombre;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;ocupado;univers;casado
+si;mujer;< 35;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;elemen;casado
+no;mujer;> 55;ocupado;media;NA
+si;mujer;< 35;ocupado;media;casado
+si;mujer;> 55;inactivo;media;no casado
+si;mujer;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;elemen;casado
+no;mujer;35 -55;parado;elemen;no casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+no;hombre;> 55;inactivo;media;no casado
+no;hombre;> 55;inactivo;elemen;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;> 55;parado;elemen;casado
+si;mujer;35 -55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;> 55;inactivo;elemen;casado
+no;mujer;< 35;ocupado;media;no casado
+si;mujer;35 -55;parado;elemen;casado
+si;hombre;35 -55;ocupado;media;casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;> 55;ocupado;univers;casado
+no;mujer;> 55;inactivo;elemen;casado
+si;hombre;35 -55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;hombre;35 -55;ocupado;elemen;casado
+si;mujer;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;> 55;parado;elemen;no casado
+no;hombre;< 35;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;casado
+no;mujer;> 55;parado;media;no casado
+si;hombre;< 35;ocupado;media;casado
+no;mujer;> 55;parado;media;casado
+no;hombre;35 -55;parado;media;no casado
+no;hombre;> 55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;NA
+si;hombre;> 55;inactivo;elemen;casado
+no;hombre;> 55;inactivo;media;casado
+no;hombre;> 55;inactivo;media;no casado
+no;mujer;> 55;ocupado;univers;no casado
+no;hombre;35 -55;ocupado;univers;casado
+no;hombre;> 55;ocupado;elemen;casado
+si;hombre;< 35;ocupado;media;casado
+si;mujer;35 -55;parado;media;casado
+si;mujer;> 55;parado;elemen;no casado
+no;hombre;< 35;ocupado;media;casado
+no;hombre;35 -55;parado;media;no casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;> 55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;hombre;> 55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;univers;casado
+si;mujer;> 55;inactivo;univers;no casado
+si;mujer;35 -55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;mujer;> 55;inactivo;media;casado
+si;hombre;> 55;inactivo;media;casado
+si;mujer;> 55;inactivo;media;casado
+no;mujer;> 55;inactivo;elemen;no casado
+si;mujer;> 55;inactivo;elemen;no casado
+no;hombre;> 55;ocupado;elemen;casado
+si;mujer;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;< 35;ocupado;elemen;NA
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;35 -55;ocupado;univers;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;NA;no casado
+si;mujer;35 -55;ocupado;media;no casado
+no;hombre;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+no;mujer;> 55;parado;media;no casado
+si;mujer;> 55;ocupado;elemen;casado
+no;hombre;> 55;inactivo;univers;no casado
+si;mujer;35 -55;ocupado;univers;casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;35 -55;ocupado;media;casado
+si;hombre;35 -55;ocupado;media;no casado
+si;mujer;< 35;ocupado;media;no casado
+no;hombre;35 -55;parado;media;no casado
+no;hombre;< 35;ocupado;media;no casado
+no;mujer;< 35;parado;media;no casado
+no;mujer;< 35;ocupado;media;no casado
+si;hombre;> 55;ocupado;media;casado
+no;hombre;35 -55;ocupado;elemen;casado
+no;mujer;> 55;parado;media;casado
+si;mujer;> 55;parado;media;no casado
+no;mujer;35 -55;ocupado;media;NA
+si;hombre;35 -55;ocupado;elemen;no casado
+si;hombre;> 55;ocupado;media;casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;mujer;> 55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;mujer;< 35;ocupado;media;no casado
+no;hombre;35 -55;ocupado;elemen;no casado
+si;hombre;35 -55;parado;elemen;no casado
+si;hombre;> 55;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;univers;casado
+si;mujer;> 55;inactivo;media;casado
+no;hombre;> 55;parado;elemen;casado
+no;hombre;35 -55;ocupado;media;no casado
+si;hombre;< 35;ocupado;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;< 35;parado;elemen;NA
+si;mujer;< 35;ocupado;media;casado
+si;hombre;> 55;inactivo;media;casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;elemen;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;univers;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;35 -55;ocupado;media;no casado
+no;hombre;> 55;inactivo;elemen;no casado
+si;mujer;< 35;parado;media;casado
+si;mujer;35 -55;ocupado;univers;casado
+si;hombre;35 -55;ocupado;univers;casado
+no;mujer;> 55;inactivo;media;no casado
+no;mujer;35 -55;ocupado;media;no casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;no casado
+si;mujer;< 35;ocupado;elemen;casado
+no;mujer;< 35;ocupado;media;no casado
+si;mujer;> 55;ocupado;media;casado
+no;mujer;> 55;inactivo;univers;no casado
+si;hombre;< 35;ocupado;media;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;elemen;casado
+no;hombre;> 55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;elemen;no casado
+si;mujer;> 55;inactivo;elemen;casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;mujer;35 -55;ocupado;media;NA
+si;mujer;> 55;parado;elemen;no casado
+no;hombre;35 -55;ocupado;media;no casado
+no;hombre;> 55;parado;elemen;casado
+no;mujer;> 55;ocupado;univers;no casado
+no;hombre;< 35;parado;media;no casado
+si;hombre;35 -55;ocupado;media;casado
+no;hombre;< 35;ocupado;elemen;no casado
+no;hombre;< 35;parado;elemen;no casado
+si;hombre;< 35;ocupado;elemen;casado
+no;hombre;35 -55;ocupado;univers;casado
+si;hombre;> 55;inactivo;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;univers;casado
+no;hombre;< 35;ocupado;media;casado
+no;mujer;> 55;parado;media;casado
+no;hombre;35 -55;ocupado;univers;casado
+no;hombre;35 -55;ocupado;media;casado
+no;hombre;< 35;ocupado;elemen;casado
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;elemen;no casado
+no;hombre;35 -55;inactivo;elemen;casado
+si;mujer;> 55;ocupado;elemen;casado
+si;hombre;35 -55;ocupado;media;casado
+si;mujer;> 55;inactivo;elemen;casado
+si;hombre;> 55;inactivo;media;casado
+no;hombre;35 -55;ocupado;elemen;casado
+no;mujer;> 55;ocupado;elemen;no casado
+no;mujer;> 55;inactivo;elemen;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;ocupado;media;casado
+no;mujer;> 55;inactivo;media;no casado
+no;mujer;35 -55;ocupado;media;casado
+no;hombre;> 55;inactivo;elemen;casado
+no;mujer;35 -55;ocupado;univers;no casado
+si;hombre;> 55;ocupado;univers;casado
+no;hombre;> 55;inactivo;elemen;casado
+no;mujer;< 35;ocupado;media;no casado
+no;mujer;> 55;parado;elemen;casado
+no;mujer;35 -55;ocupado;media;casado
+no;mujer;35 -55;ocupado;elemen;casado
+no;mujer;< 35;ocupado;media;no casado
+si;mujer;> 55;parado;media;casado
+no;mujer;35 -55;ocupado;media;no casado
+no;mujer;> 55;inactivo;media;no casado
+si;hombre;> 55;inactivo;media;casado
+si;mujer;35 -55;ocupado;media;casado
+si;hombre;35 -55;inactivo;media;no casado
+no;hombre;> 55;ocupado;elemen;no casado
+si;mujer;35 -55;ocupado;media;casado
+no;hombre;35 -55;ocupado;media;no casado
+no;mujer;< 35;parado;elemen;no casado
+no;hombre;35 -55;inactivo;media;casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;> 55;inactivo;media;casado
+si;hombre;> 55;inactivo;media;no casado
+si;mujer;< 35;ocupado;media;no casado
+no;mujer;35 -55;ocupado;media;casado
+si;mujer;35 -55;parado;media;casado
